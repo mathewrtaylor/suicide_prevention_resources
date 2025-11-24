@@ -12,9 +12,9 @@
 
 ---
 
-## 🌏 [ASIA-PACIFIC](./Asia-Pacific)
+## 🌏 [ASIA-PACIFIC](./Asia_Pacific.md)
 
-## 🌎 [LATIN AMERICA](./Latin%20America)
+## 🌎 [LATIN AMERICA](./Latin_America.md)
 
 ## 🌍 EUROPE
 
@@ -24,7 +24,7 @@
 
 **(Information Being Collected)**
 
-## 🌍 [MIDDLE EAST & NORTH AFRICA](./Middle_East_Africa)
+## 🌍 [MIDDLE EAST & NORTH AFRICA](./Middle_East_Africa.md)
 
 ## 🌍 SUB-SAHARAN AFRICA
 
