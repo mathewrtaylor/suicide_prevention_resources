@@ -32,12 +32,51 @@
 - 🇹🇼 [Taiwan](./Asia_Pacific.md#-taiwan)
 - 🇻🇳 [Vietnam](./Asia_Pacific.md#-vietnam)
 
-
 ## 🌎 [LATIN AMERICA](./Latin_America.md)
 
 ## 🌍 [EUROPE](./Europe.md)
 
+- 🇦🇹 [Austria](./Europe.md#-austria)
+- 🇧🇪 [Belgium](./Europe.md#-belgium)
+- 🇧🇬 [Bulgaria](./Europe.md#-bulgaria)
+- 🇭🇷 [Croatia](./Europe.md#-croatia)
+- 🇨🇾 [Cyprus](./Europe.md#-cyprus)
+- 🇨🇿 [Czech Republic](./Europe.md#-czech-republic)
+- 🇩🇰 [Denmark](./Europe.md#-denmark)
+- 🇪🇪 [Estonia](./Europe.md#-estonia)
+- 🇫🇮 [Finland](./Europe.md#-finland)
+- 🇫🇷 [France](./Europe.md#-france)
+- 🇩🇪 [Germany](./Europe.md#-germany)
+- 🇬🇷 [Greece](./Europe.md#-greece)
+- 🇭🇺 [Hungary](./Europe.md#-hungary)
+- 🇮🇸 [Iceland](./Europe.md#-iceland)
+- 🇮🇪 [Ireland](./Europe.md#-ireland)
+- 🇮🇹 [Italy](./Europe.md#-italy)
+- 🇱🇻 [Latvia](./Europe.md#-latvia)
+- 🇱🇹 [Lithuania](./Europe.md#-lithuania)
+- 🇱🇺 [Luxembourg](./Europe.md#-luxembourg)
+- 🇲🇹 [Malta](./Europe.md#-malta)
+- 🇳🇱 [Netherlands](./Europe.md#-netherlands)
+- 🇳🇴 [Norway](./Europe.md#-norway)
+- 🇵🇱 [Poland](./Europe.md#-poland)
+- 🇵🇹 [Portugal](./Europe.md#-portugal)
+- 🇷🇴 [Romania](./Europe.md#-romania)
+- 🇷🇺 [Russia](./Europe.md#-russia)
+- 🇸🇮 [Slovenia](./Europe.md#-slovenia)
+- 🇷🇸 [Serbia](./Europe.md#-serbia)
+- 🇸🇰 [Slovakia](./Europe.md#-slovakia)
+- 🇪🇸 [Spain](./Europe.md#-spain)
+- 🇸🇪 [Sweden](./Europe.md#-sweden)
+- 🇨🇭 [Switzerland](./Europe.md#-switzerland)
+- 🇹🇷 [Turkey](./Europe.md#-turkey)
+- 🇺🇦 [Ukraine](./Europe.md#-ukraine)
+- 🇬🇧 [United Kingdom](./Europe.md#-united-kingdom)
+
 ## 🌎 [NORTH AMERICA](./North_America.md)
+
+- 🇨🇦 [Canada](./North_America.md#-canada)
+- 🇺🇸 [United States](./North_America.md#-united-states)
+
 
 ## 🌍 [MIDDLE EAST & AFRICA](./Middle_East_Africa.md)
 

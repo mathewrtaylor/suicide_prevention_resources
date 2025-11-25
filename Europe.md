@@ -1,10 +1,49 @@
 # 🌍 EUROPE SUICIDE PREVENTION RESOURCES
 
 **Last Updated:** November 24, 2025
+---
+
+# 📖 [Index](#-index)
+
+- 🇦🇹 [Austria](#-austria)
+- 🇧🇪 [Belgium](#-belgium)
+- 🇧🇬 [Bulgaria](#-bulgaria)
+- 🇭🇷 [Croatia](#-croatia)
+- 🇨🇾 [Cyprus](#-cyprus)
+- 🇨🇿 [Czech Republic](#-czech-republic)
+- 🇩🇰 [Denmark](#-denmark)
+- 🇪🇪 [Estonia](#-estonia)
+- 🇫🇮 [Finland](#-finland)
+- 🇫🇷 [France](#-france)
+- 🇩🇪 [Germany](#-germany)
+- 🇬🇷 [Greece](#-greece)
+- 🇭🇺 [Hungary](#-hungary)
+- 🇮🇸 [Iceland](#-iceland)
+- 🇮🇪 [Ireland](#-ireland)
+- 🇮🇹 [Italy](#-italy)
+- 🇱🇻 [Latvia](#-latvia)
+- 🇱🇹 [Lithuania](#-lithuania)
+- 🇱🇺 [Luxembourg](#-luxembourg)
+- 🇲🇹 [Malta](#-malta)
+- 🇳🇱 [Netherlands](#-netherlands)
+- 🇳🇴 [Norway](#-norway)
+- 🇵🇱 [Poland](#-poland)
+- 🇵🇹 [Portugal](#-portugal)
+- 🇷🇴 [Romania](#-romania)
+- 🇷🇺 [Russia](#-russia)
+- 🇸🇮 [Slovenia](#-slovenia)
+- 🇷🇸 [Serbia](#-serbia)
+- 🇸🇰 [Slovakia](#-slovakia)
+- 🇪🇸 [Spain](#-spain)
+- 🇸🇪 [Sweden](#-sweden)
+- 🇨🇭 [Switzerland](#-switzerland)
+- 🇹🇷 [Turkey](#-turkey)
+- 🇺🇦 [Ukraine](#-ukraine)
+- 🇬🇧 [United Kingdom](#-united-kingdom)
 
 ---
 
-## 🇬🇧 United Kingdom
+## 🇬🇧 [United Kingdom](#-united-kingdom)
 
 **National Crisis Hotlines:**
 
@@ -48,9 +87,10 @@
 - **Phone:** 0808 808 8000
 - **Availability:** 24/7
 
+*[Back to Top](#-index)*
 ---
 
-## 🇵🇱 Poland
+## 🇵🇱 [Poland](#-poland)
 
 **National Crisis Hotlines:**
 
@@ -69,9 +109,10 @@
 **Emergency Services:**
 - **Phone:** 112 (general emergency)
 
+*[Back to Top](#-index)*
 ---
 
-## 🇭🇺 Hungary
+## 🇭🇺 [Hungary](#-hungary)
 
 **National Crisis Hotlines:**
 
@@ -90,9 +131,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇷🇴 Romania
+## 🇷🇴 [Romania](#-romania)
 
 **National Crisis Hotlines:**
 
@@ -105,9 +147,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇩🇪 Germany
+## 🇩🇪 [Germany](#-germany)
 
 **National Crisis Hotlines:**
 
@@ -128,9 +171,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇫🇷 France
+## 🇫🇷 [France](#-france)
 
 **National Crisis Hotlines:**
 
@@ -156,9 +200,10 @@
 **Emergency Services:**
 - **Phone:** 112 or 15 (medical emergency)
 
+*[Back to Top](#-index)*
 ---
 
-## 🇮🇹 Italy
+## 🇮🇹 [Italy](#-italy)
 
 **National Crisis Hotlines:**
 
@@ -179,9 +224,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇪🇸 Spain
+## 🇪🇸 [Spain](#-spain)
 
 **National Crisis Hotlines:**
 
@@ -207,9 +253,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇳🇱 Netherlands
+## 🇳🇱 [Netherlands](#-netherlands)
 
 **National Crisis Hotlines:**
 
@@ -230,9 +277,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇧🇪 Belgium
+## 🇧🇪 [Belgium](#-belgium)
 
 **National Crisis Hotlines:**
 
@@ -259,9 +307,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇸🇪 Sweden
+## 🇸🇪 [Sweden](#-sweden)
 
 **National Crisis Hotlines:**
 
@@ -275,9 +324,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇳🇴 Norway
+## 🇳🇴 [Norway](#-norway)
 
 **National Crisis Hotlines:**
 
@@ -297,9 +347,10 @@
 **Emergency Services:**
 - **Phone:** 113 (medical emergency), 112 (police)
 
+*[Back to Top](#-index)*
 ---
 
-## 🇩🇰 Denmark
+## 🇩🇰 [Denmark](#-denmark)
 
 **National Crisis Hotlines:**
 
@@ -313,9 +364,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇫🇮 Finland
+## 🇫🇮 [Finland](#-finland)
 
 **National Crisis Hotlines:**
 
@@ -335,9 +387,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇮🇸 Iceland
+## 🇮🇸 [Iceland](#-iceland)
 
 **National Crisis Hotlines:**
 
@@ -350,9 +403,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇦🇹 Austria
+## 🇦🇹 [Austria](#-austria)
 
 **National Crisis Hotlines:**
 
@@ -372,9 +426,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇨🇭 Switzerland
+## 🇨🇭 [Switzerland](#-switzerland)
 
 **National Crisis Hotlines:**
 
@@ -394,9 +449,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇵🇹 Portugal
+## 🇵🇹 [Portugal](#-portugal)
 
 **National Crisis Hotlines:**
 
@@ -416,9 +472,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇬🇷 Greece
+## 🇬🇷 [Greece](#-greece)
 
 **National Crisis Hotlines:**
 
@@ -431,9 +488,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇧🇬 Bulgaria
+## 🇧🇬 [Bulgaria](#-bulgaria)
 
 **National Crisis Hotlines:**
 
@@ -446,9 +504,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇨🇿 Czech Republic
+## 🇨🇿 [Czech Republic](#-czech-republic)
 
 **National Crisis Hotlines:**
 
@@ -467,9 +526,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇮🇪 Ireland
+## 🇮🇪 [Ireland](#-ireland)
 
 **National Crisis Hotlines:**
 
@@ -491,9 +551,10 @@
 **Emergency Services:**
 - **Phone:** 112 or 999
 
+*[Back to Top](#-index)*
 ---
 
-## 🇷🇸 Serbia
+## 🇷🇸 [Serbia](#-serbia)
 
 **National Crisis Hotlines:**
 
@@ -506,9 +567,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇭🇷 Croatia
+## 🇭🇷 [Croatia](#-croatia)
 
 **National Crisis Hotlines:**
 
@@ -521,9 +583,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇸🇮 Slovenia
+## 🇸🇮 [Slovenia](#-slovenia)
 
 **National Crisis Hotlines:**
 
@@ -536,9 +599,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇸🇰 Slovakia
+## 🇸🇰 [Slovakia](#-slovakia)
 
 **National Crisis Hotlines:**
 
@@ -551,9 +615,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇪🇪 Estonia
+## 🇪🇪 [Estonia](#-estonia)
 
 **National Crisis Hotlines:**
 
@@ -567,9 +632,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇱🇻 Latvia
+## 🇱🇻 [Latvia](#-latvia)
 
 **National Crisis Hotlines:**
 
@@ -582,9 +648,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇱🇹 Lithuania
+## 🇱🇹 [Lithuania](#-lithuania)
 
 **National Crisis Hotlines:**
 
@@ -597,9 +664,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇱🇺 Luxembourg
+## 🇱🇺 [Luxembourg](#-luxembourg)
 
 **National Crisis Hotlines:**
 
@@ -612,9 +680,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇲🇹 Malta
+## 🇲🇹 [Malta](#-malta)
 
 **National Crisis Hotlines:**
 
@@ -627,9 +696,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇨🇾 Cyprus
+## 🇨🇾 [Cyprus](#-cyprus)
 
 **National Crisis Hotlines:**
 
@@ -643,9 +713,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇷🇺 Russia
+## 🇷🇺 [Russia](#-russia)
 
 **National Crisis Hotlines:**
 
@@ -664,9 +735,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇺🇦 Ukraine
+## 🇺🇦 [Ukraine](#-ukraine)
 
 **National Crisis Hotlines:**
 
@@ -685,9 +757,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
-## 🇹🇷 Turkey
+## 🇹🇷 [Turkey](#-turkey)
 
 **National Crisis Hotlines:**
 
@@ -700,6 +773,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index)*
 ---
 
 *Last Updated: November 24, 2025*

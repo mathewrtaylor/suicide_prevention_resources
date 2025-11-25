@@ -569,5 +569,7 @@
 - **Languages:** Nepali
 - **Services:** Mental health support
 
----*Last Updated: November 24, 2025*
+*[Back to Top](#-index)*
+---
+*Last Updated: November 24, 2025*
 *Data Sources: National mental health departments, WHO, Befrienders Worldwide, IASP*

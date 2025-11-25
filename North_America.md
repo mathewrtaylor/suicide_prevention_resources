@@ -1,10 +1,16 @@
 # 🌎 NORTH AMERICA SUICIDE PREVENTION RESOURCES
 
 **Last Updated:** November 24, 2025
+---
+
+# 📖 [Index](#-index)
+
+- 🇨🇦 [Canada](#-canada)
+- 🇺🇸 [United States](#-united-states)
 
 ---
 
-## 🇺🇸 United States
+## 🇺🇸 [United States](#-united-states)
 
 **National Crisis Hotlines:**
 
@@ -80,9 +86,10 @@
 - **Languages:** English, Spanish
 - **Services:** Crisis counseling for people experiencing emotional distress related to disasters
 
+*[Back to Top](#-index)*
 ---
 
-## 🇨🇦 Canada
+## 🇨🇦 [Canada](#-canada)
 
 **National Crisis Hotlines:**
 
@@ -171,6 +178,7 @@
 **Nunavut**
 - **Kamatsiaqtut Help Line:** 1-800-265-3333
 
+*[Back to Top](#-index)*
 ---
 
 *Last Updated: November 24, 2025*
