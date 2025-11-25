@@ -3,8 +3,16 @@
 **Last Updated:** November 24, 2025
 
 ---
+# 📖 [Index](#-index)
+    - 🇮🇳 India
+    - 🇮🇩 Indonesia
+    - 🇲🇾 Malaysia
+    - 🇵🇭 [Philippines](#-philippines)
+    - 🇸🇬 [Singapore](#-singapore)
+    - 🇹🇭 Thailand
+    - 🇻🇳 Vietnam
 
-## 🇵🇭 Philippines
+## 🇵🇭 [Philippines](#-philippines)
 
 **National Crisis Hotlines:**
 
@@ -44,9 +52,10 @@
 - **Languages:** Filipino, English
 - **Services:** Child protection, family support
 
+*[Back to Top](#-index)*
 ---
 
-## 🇻🇳 Vietnam
+## 🇻🇳 [Vietnam](#-vietnam)
 
 **National Crisis Hotlines:**
 
@@ -76,9 +85,10 @@
 - **Languages:** Multiple languages for Vietnamese speakers
 - **Services:** Crisis intervention for trauma survivors
 
+*[Back to Top](#-index)*
 ---
 
-## 🇹🇭 Thailand
+## 🇹🇭 [Thailand](#-thailand)
 
 **National Crisis Hotlines:**
 
@@ -120,9 +130,10 @@
 - **Phone:** (02) 641-8444
 - **Services:** Youth mental health, suicide prevention
 
+*[Back to Top](#-index)*
 ---
 
-## 🇮🇳 India
+## 🇮🇳 [India](#-india)
 
 **National Crisis Hotlines:**
 
@@ -172,9 +183,10 @@
 - **Availability:** Mon-Sat, 11 AM - 7 PM
 - **Languages:** English, Hindi, Gujarati
 
+*[Back to Top](#-index)*
 ---
 
-## 🇮🇩 Indonesia
+## 🇮🇩 [Indonesia](#-indonesia)
 
 **Crisis Resources:**
 
@@ -197,9 +209,10 @@
 
 **Moderator Note:** For Indonesian members in crisis, recommend visiting the nearest emergency center and requesting constant monitoring. Online therapy platforms are increasingly available.
 
+*[Back to Top](#-index)*
 ---
 
-## 🇲🇾 Malaysia
+## 🇲🇾 [Malaysia](#-malaysia)
 
 **National Crisis Hotlines:**
 
@@ -238,9 +251,10 @@
 - **Phone:** (07) 331 5555
 - **Availability:** Mon-Fri, 4 PM - 7 PM
 
+*[Back to Top](#-index)*
 ---
 
-## 🇸🇬 Singapore
+## 🇸🇬 [Singapore](#-singapore)
 
 **National Crisis Hotlines:**
 
@@ -279,6 +293,7 @@
 - **Languages:** English
 - **Services:** Counseling for youth
 
+*[Back to Top](#-index)*
 ---
 
 ## 🇯🇵 Japan
