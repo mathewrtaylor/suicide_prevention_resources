@@ -3,14 +3,28 @@
 **Last Updated:** November 24, 2025
 
 ---
+
 # 📖 [Index](#-index)
-    - 🇮🇳 India
-    - 🇮🇩 Indonesia
-    - 🇲🇾 Malaysia
-    - 🇵🇭 [Philippines](#-philippines)
-    - 🇸🇬 [Singapore](#-singapore)
-    - 🇹🇭 Thailand
-    - 🇻🇳 Vietnam
+
+- 🇦🇺 [Australia](#-australia)
+- 🇧🇩 [Bangladesh](#-bangladesh)
+- 🇭🇰 [Hong Kong](#-hong-kong)
+- 🇮🇳 [India](#-india)
+- 🇮🇩 [Indonesia](#-indonesia)
+- 🇯🇵 [Japan](#-japan)
+- 🇲🇾 [Malaysia](#-malaysia)
+- 🇳🇵 [Nepal](#-nepal)
+- 🇳🇿 [New Zealand](#-new-zealand)
+- 🇵🇰 [Pakistan](#-pakistan)
+- 🇵🇭 [Philippines](#-philippines)
+- 🇸🇬 [Singapore](#-singapore)
+- 🇱🇰 [Sri Lanka](#-sri-lanka)
+- 🇰🇷 [South Korea](#-south-korea)
+- 🇹🇭 [Thailand](#-thailand)
+- 🇹🇼 [Taiwan](#-taiwan)
+- 🇻🇳 [Vietnam](#-vietnam)
+
+---
 
 ## 🇵🇭 [Philippines](#-philippines)
 
@@ -296,7 +310,7 @@
 *[Back to Top](#-index)*
 ---
 
-## 🇯🇵 Japan
+## 🇯🇵 [Japan](#-japan)
 
 **National Crisis Hotlines:**
 
@@ -324,9 +338,10 @@
 - **Languages:** Japanese
 - **Services:** Online text counseling
 
+*[Back to Top](#-index)*
 ---
 
-## 🇰🇷 South Korea
+## 🇰🇷 [South Korea](#-south-korea)
 
 **National Crisis Hotlines:**
 
@@ -353,9 +368,10 @@
 - **Languages:** Korean
 - **Services:** Online crisis counseling
 
+*[Back to Top](#-index)*
 ---
 
-## 🇭🇰 Hong Kong
+## 🇭🇰 [Hong Kong](#-hong-kong)
 
 **National Crisis Hotlines:**
 
@@ -378,9 +394,10 @@
 - **Availability:** Mon-Fri, 9 AM - 5 PM
 - **Languages:** Cantonese, English
 
+*[Back to Top](#-index)*
 ---
 
-## 🇹🇼 Taiwan
+## 🇹🇼 [Taiwan](#-taiwan)
 
 **National Crisis Hotlines:**
 
@@ -401,9 +418,10 @@
 - **Availability:** Mon-Fri, 9 AM - 6 PM
 - **Languages:** Mandarin
 
+*[Back to Top](#-index)*
 ---
 
-## 🇦🇺 Australia
+## 🇦🇺 [Australia](#-australia)
 
 **National Crisis Hotlines:**
 
@@ -441,9 +459,10 @@
 - **Availability:** 3 PM - 12 AM daily
 - **Services:** LGBTI+ peer support
 
+*[Back to Top](#-index)*
 ---
 
-## 🇳🇿 New Zealand
+## 🇳🇿 [New Zealand](#-new-zealand)
 
 **National Crisis Hotlines:**
 
@@ -479,9 +498,10 @@
 - **Phone:** 0800 726 666
 - **Availability:** 24/7
 
+*[Back to Top](#-index)*
 ---
 
-## 🇵🇰 Pakistan
+## 🇵🇰 [Pakistan](#-pakistan)
 
 **National Crisis Hotlines:**
 
@@ -503,9 +523,10 @@
 - **Languages:** Urdu, English
 - **Services:** Mental health counseling
 
+*[Back to Top](#-index)*
 ---
 
-## 🇧🇩 Bangladesh
+## 🇧🇩 [Bangladesh](#-bangladesh)
 
 **National Crisis Hotlines:**
 
@@ -521,9 +542,10 @@
 - **Languages:** Bengali
 - **Services:** Mental health support
 
+*[Back to Top](#-index)*
 ---
 
-## 🇱🇰 Sri Lanka
+## 🇱🇰 [Sri Lanka](#-sri-lanka)
 
 **National Crisis Hotlines:**
 
@@ -535,9 +557,10 @@
 - **Website:** sumithrayo.org
 - **Services:** Emotional support, suicide prevention
 
+*[Back to Top](#-index)*
 ---
 
-## 🇳🇵 Nepal
+## 🇳🇵 [Nepal](#-nepal)
 
 **National Crisis Hotlines:**
 

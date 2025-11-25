@@ -14,21 +14,33 @@
 
 ## 🌏 [ASIA-PACIFIC](./Asia_Pacific.md)
 
+- 🇦🇺 [Australia](./Asia_Pacific.md#-australia)
+- 🇧🇩 [Bangladesh](./Asia_Pacific.md#-bangladesh)
+- 🇭🇰 [Hong Kong](./Asia_Pacific.md#-hong-kong)
+- 🇮🇳 [India](./Asia_Pacific.md#-india)
+- 🇮🇩 [Indonesia](./Asia_Pacific.md#-indonesia)
+- 🇯🇵 [Japan](./Asia_Pacific.md#-japan)
+- 🇲🇾 [Malaysia](./Asia_Pacific.md#-malaysia)
+- 🇳🇵 [Nepal](./Asia_Pacific.md#-nepal)
+- 🇳🇿 [New Zealand](./Asia_Pacific.md#-new-zealand)
+- 🇵🇰 [Pakistan](./Asia_Pacific.md#-pakistan)
+- 🇵🇭 [Philippines](./Asia_Pacific.md#-philippines)
+- 🇸🇬 [Singapore](./Asia_Pacific.md#-singapore)
+- 🇱🇰 [Sri Lanka](./Asia_Pacific.md#-sri-lanka)
+- 🇰🇷 [South Korea](./Asia_Pacific.md#-south-korea)
+- 🇹🇭 [Thailand](./Asia_Pacific.md#-thailand)
+- 🇹🇼 [Taiwan](./Asia_Pacific.md#-taiwan)
+- 🇻🇳 [Vietnam](./Asia_Pacific.md#-vietnam)
+
+
 ## 🌎 [LATIN AMERICA](./Latin_America.md)
 
-## 🌍 EUROPE
+## 🌍 [EUROPE](./Europe.md)
 
-**(Information Being Collected)**
+## 🌎 [NORTH AMERICA](./North_America.md)
 
-## 🌎 NORTH AMERICA
+## 🌍 [MIDDLE EAST & AFRICA](./Middle_East_Africa.md)
 
-**(Information Being Collected)**
-
-## 🌍 [MIDDLE EAST & NORTH AFRICA](./Middle_East_Africa.md)
-
-## 🌍 SUB-SAHARAN AFRICA
-
-**(Information Being Collected)**
 
 ## 📱 INTERNATIONAL RESOURCES
 
