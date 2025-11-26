@@ -87,7 +87,7 @@
 - **Phone:** 0808 808 8000
 - **Availability:** 24/7
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇵🇱 [Poland](#-poland)
@@ -109,7 +109,7 @@
 **Emergency Services:**
 - **Phone:** 112 (general emergency)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇭🇺 [Hungary](#-hungary)
@@ -131,7 +131,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇷🇴 [Romania](#-romania)
@@ -147,7 +147,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇩🇪 [Germany](#-germany)
@@ -171,7 +171,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇫🇷 [France](#-france)
@@ -200,7 +200,7 @@
 **Emergency Services:**
 - **Phone:** 112 or 15 (medical emergency)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇮🇹 [Italy](#-italy)
@@ -224,7 +224,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇪🇸 [Spain](#-spain)
@@ -253,7 +253,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇳🇱 [Netherlands](#-netherlands)
@@ -277,7 +277,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇧🇪 [Belgium](#-belgium)
@@ -307,7 +307,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇸🇪 [Sweden](#-sweden)
@@ -324,7 +324,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇳🇴 [Norway](#-norway)
@@ -347,7 +347,7 @@
 **Emergency Services:**
 - **Phone:** 113 (medical emergency), 112 (police)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇩🇰 [Denmark](#-denmark)
@@ -364,7 +364,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇫🇮 [Finland](#-finland)
@@ -387,7 +387,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇮🇸 [Iceland](#-iceland)
@@ -403,7 +403,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇦🇹 [Austria](#-austria)
@@ -426,7 +426,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇨🇭 [Switzerland](#-switzerland)
@@ -449,7 +449,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇵🇹 [Portugal](#-portugal)
@@ -472,7 +472,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇬🇷 [Greece](#-greece)
@@ -488,7 +488,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇧🇬 [Bulgaria](#-bulgaria)
@@ -504,7 +504,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇨🇿 [Czech Republic](#-czech-republic)
@@ -526,7 +526,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇮🇪 [Ireland](#-ireland)
@@ -551,7 +551,7 @@
 **Emergency Services:**
 - **Phone:** 112 or 999
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇷🇸 [Serbia](#-serbia)
@@ -567,7 +567,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇭🇷 [Croatia](#-croatia)
@@ -583,7 +583,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇸🇮 [Slovenia](#-slovenia)
@@ -599,7 +599,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇸🇰 [Slovakia](#-slovakia)
@@ -615,7 +615,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇪🇪 [Estonia](#-estonia)
@@ -632,7 +632,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇱🇻 [Latvia](#-latvia)
@@ -648,7 +648,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇱🇹 [Lithuania](#-lithuania)
@@ -664,7 +664,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇱🇺 [Luxembourg](#-luxembourg)
@@ -680,7 +680,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇲🇹 [Malta](#-malta)
@@ -696,7 +696,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇨🇾 [Cyprus](#-cyprus)
@@ -713,7 +713,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇷🇺 [Russia](#-russia)
@@ -735,7 +735,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇺🇦 [Ukraine](#-ukraine)
@@ -757,7 +757,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇹🇷 [Turkey](#-turkey)
@@ -773,7 +773,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 *Last Updated: November 24, 2025*

@@ -64,7 +64,7 @@
 **Emergency Services:**
 - **Phone:** 10111 (police), 10177 (ambulance)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇳🇬 [Nigeria](#-nigeria)
@@ -96,7 +96,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇰🇪 [Kenya](#-kenya)
@@ -117,7 +117,7 @@
 **Emergency Services:**
 - **Phone:** 999, 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇺🇬 [Uganda](#-uganda)
@@ -132,7 +132,7 @@
 **Emergency Services:**
 - **Phone:** 112, 999
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇪🇹 [Ethiopia](#-ethiopia)
@@ -147,7 +147,7 @@
 **Emergency Services:**
 - **Phone:** 911
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇬🇭 [Ghana](#-ghana)
@@ -162,7 +162,7 @@
 **Emergency Services:**
 - **Phone:** 999, 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇹🇿 [Tanzania](#-tanzania)
@@ -175,7 +175,7 @@
 **Emergency Services:**
 - **Phone:** 112, 999
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇷🇼 [Rwanda](#-rwanda)
@@ -190,7 +190,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇿🇼 [Zimbabwe](#-zimbabwe)
@@ -205,7 +205,7 @@
 **Emergency Services:**
 - **Phone:** 999
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇧🇼 [Botswana](#-botswana)
@@ -220,7 +220,7 @@
 **Emergency Services:**
 - **Phone:** 999, 997
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇳🇦 [Namibia](#-namibia)
@@ -235,7 +235,7 @@
 **Emergency Services:**
 - **Phone:** 10111
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇿🇲 [Zambia](#-zambia)
@@ -250,7 +250,7 @@
 **Emergency Services:**
 - **Phone:** 999, 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇲🇼 [Malawi](#-malawi)
@@ -265,7 +265,7 @@
 **Emergency Services:**
 - **Phone:** 997, 998
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇲🇿 [Mozambique](#-mozambique)
@@ -280,7 +280,7 @@
 **Emergency Services:**
 - **Phone:** 119
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇦🇴 [Angola](#-angola)
@@ -297,7 +297,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇲🇦 [Morocco](#-morocco)
@@ -312,7 +312,7 @@
 **Emergency Services:**
 - **Phone:** 19 (police), 15 (medical)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇩🇿 [Algeria](#-algeria)
@@ -327,7 +327,7 @@
 **Emergency Services:**
 - **Phone:** 14 (ambulance), 17 (police)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇹🇳 [Tunisia](#-tunisia)
@@ -340,7 +340,7 @@
 **Emergency Services:**
 - **Phone:** 197
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇸🇳 [Senegal](#-senegal)
@@ -352,7 +352,7 @@
 **Emergency Services:**
 - **Phone:** 17 (police), 18 (medical)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇨🇲 [Cameroon](#-cameroon)
@@ -365,7 +365,7 @@
 **Emergency Services:**
 - **Phone:** 117
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇨🇮 [Côte d'Ivoire](#-côte-divoire)
@@ -377,7 +377,7 @@
 **Emergency Services:**
 - **Phone:** 110, 111
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇸🇩 [Sudan](#-sudan)
@@ -392,7 +392,7 @@
 **Emergency Services:**
 - **Phone:** 999
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇹🇬 [Togo](#-togo)
@@ -407,7 +407,7 @@
 **Emergency Services:**
 - **Phone:** 117
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇬🇦 [Gabon](#-gabon)
@@ -419,7 +419,7 @@
 **Emergency Services:**
 - **Phone:** 1730
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇲🇺 [Mauritius](#-mauritius)
@@ -435,7 +435,7 @@
 **Emergency Services:**
 - **Phone:** 999, 114
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇸🇨 [Seychelles](#-seychelles)
@@ -448,7 +448,7 @@
 **Emergency Services:**
 - **Phone:** 999
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇲🇬 [Madagascar](#-madagascar)
@@ -460,7 +460,7 @@
 **Emergency Services:**
 - **Phone:** 117, 118
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## IMPORTANT NOTES FOR MODERATORS
@@ -479,7 +479,7 @@ Many African countries have multiple languages. When possible, note if services 
 **Cultural Sensitivity:**
 Be aware that mental health stigma may be particularly strong in some regions. Encourage members to seek help through trusted community leaders, religious figures, or healthcare providers if formal hotlines are unavailable.
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 *Last Updated: November 25, 2025*

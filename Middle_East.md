@@ -42,7 +42,7 @@
 **Emergency Services:**
 - **Phone:** 100 (police), 101 (medical emergency)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇦🇪 [United Arab Emirates](#-united-arab-emirates)
@@ -64,7 +64,7 @@
 **Emergency Services:**
 - **Phone:** 999 or 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇸🇦 [Saudi Arabia](#-saudi-arabia)
@@ -79,7 +79,7 @@
 
 **Note:** Suicide prevention services are primarily provided through hospital-based mental health departments.
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇪🇬 [Egypt](#-egypt)
@@ -94,7 +94,7 @@
 **Emergency Services:**
 - **Phone:** 122
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇯🇴 [Jordan](#-jordan)
@@ -109,7 +109,7 @@
 **Emergency Services:**
 - **Phone:** 911
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇱🇧 [Lebanon](#-lebanon)
@@ -126,7 +126,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇶🇦 [Qatar](#-qatar)
@@ -141,7 +141,7 @@
 **Emergency Services:**
 - **Phone:** 999
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇰🇼 [Kuwait](#-kuwait)
@@ -154,7 +154,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇧🇭 [Bahrain](#-bahrain)
@@ -168,7 +168,7 @@
 **Emergency Services:**
 - **Phone:** 999
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇴🇲 [Oman](#-oman)
@@ -181,7 +181,7 @@
 **Emergency Services:**
 - **Phone:** 9999
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇮🇷 [Iran](#-iran)
@@ -197,7 +197,7 @@
 **Emergency Services:**
 - **Phone:** 110 (police), 115 (medical)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ### 🇮🇶 [Iraq](#-iraq)
@@ -212,7 +212,7 @@
 **Emergency Services:**
 - **Phone:** 112
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## IMPORTANT NOTES FOR MODERATORS
@@ -228,7 +228,7 @@ Many countries in the Middle East have limited formal suicide prevention hotline
 **Cultural Sensitivity:**
 Be aware that mental health stigma may be particularly strong in some regions. Encourage members to seek help through trusted community leaders, religious figures, or healthcare providers if formal hotlines are unavailable.
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 *Last Updated: November 25, 2025*

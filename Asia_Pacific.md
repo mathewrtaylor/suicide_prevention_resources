@@ -66,7 +66,7 @@
 - **Languages:** Filipino, English
 - **Services:** Child protection, family support
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇻🇳 [Vietnam](#-vietnam)
@@ -99,7 +99,7 @@
 - **Languages:** Multiple languages for Vietnamese speakers
 - **Services:** Crisis intervention for trauma survivors
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇹🇭 [Thailand](#-thailand)
@@ -144,7 +144,7 @@
 - **Phone:** (02) 641-8444
 - **Services:** Youth mental health, suicide prevention
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇮🇳 [India](#-india)
@@ -197,7 +197,7 @@
 - **Availability:** Mon-Sat, 11 AM - 7 PM
 - **Languages:** English, Hindi, Gujarati
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇮🇩 [Indonesia](#-indonesia)
@@ -223,7 +223,7 @@
 
 **Moderator Note:** For Indonesian members in crisis, recommend visiting the nearest emergency center and requesting constant monitoring. Online therapy platforms are increasingly available.
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇲🇾 [Malaysia](#-malaysia)
@@ -265,7 +265,7 @@
 - **Phone:** (07) 331 5555
 - **Availability:** Mon-Fri, 4 PM - 7 PM
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇸🇬 [Singapore](#-singapore)
@@ -307,7 +307,7 @@
 - **Languages:** English
 - **Services:** Counseling for youth
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇯🇵 [Japan](#-japan)
@@ -338,7 +338,7 @@
 - **Languages:** Japanese
 - **Services:** Online text counseling
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇰🇷 [South Korea](#-south-korea)
@@ -368,7 +368,7 @@
 - **Languages:** Korean
 - **Services:** Online crisis counseling
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇭🇰 [Hong Kong](#-hong-kong)
@@ -394,7 +394,7 @@
 - **Availability:** Mon-Fri, 9 AM - 5 PM
 - **Languages:** Cantonese, English
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇹🇼 [Taiwan](#-taiwan)
@@ -418,7 +418,7 @@
 - **Availability:** Mon-Fri, 9 AM - 6 PM
 - **Languages:** Mandarin
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇦🇺 [Australia](#-australia)
@@ -459,7 +459,7 @@
 - **Availability:** 3 PM - 12 AM daily
 - **Services:** LGBTI+ peer support
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇳🇿 [New Zealand](#-new-zealand)
@@ -498,7 +498,7 @@
 - **Phone:** 0800 726 666
 - **Availability:** 24/7
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇵🇰 [Pakistan](#-pakistan)
@@ -523,7 +523,7 @@
 - **Languages:** Urdu, English
 - **Services:** Mental health counseling
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇧🇩 [Bangladesh](#-bangladesh)
@@ -542,7 +542,7 @@
 - **Languages:** Bengali
 - **Services:** Mental health support
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇱🇰 [Sri Lanka](#-sri-lanka)
@@ -557,7 +557,7 @@
 - **Website:** sumithrayo.org
 - **Services:** Emotional support, suicide prevention
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇳🇵 [Nepal](#-nepal)
@@ -569,7 +569,7 @@
 - **Languages:** Nepali
 - **Services:** Mental health support
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 *Last Updated: November 24, 2025*
 *Data Sources: National mental health departments, WHO, Befrienders Worldwide, IASP*

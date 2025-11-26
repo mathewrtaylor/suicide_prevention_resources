@@ -54,7 +54,7 @@
 - **Phone:** 55-5533-5533
 - **Services:** Legal and psychological support for victims of violence
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇨🇴 [Colombia](#-colombia)
@@ -87,7 +87,7 @@
 
 **Note:** Colombia has implemented a National Strategy for Suicide Prevention focusing on education, mental health promotion, and early intervention.
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇧🇷 [Brazil](#-brazil)
@@ -109,7 +109,7 @@
 
 **Note:** CVV operates multiple support centers across Brazil with trained volunteers providing emotional support to those at risk of suicide.
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇨🇱 [Chile](#-chile)
@@ -131,7 +131,7 @@
 **Emergency Services:**
 - **Phone:** 131 (ambulance), 133 (police)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇦🇷 [Argentina](#-argentina)
@@ -155,7 +155,7 @@
 **Emergency Services:**
 - **Phone:** 107 (medical emergency), 911 (general emergency)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇵🇪 [Peru](#-peru)
@@ -177,7 +177,7 @@
 **Emergency Services:**
 - **Phone:** 117 (police), 116 (medical emergency)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇺🇾 [Uruguay](#-uruguay)
@@ -206,7 +206,7 @@
 
 **Note:** Uruguay is a regional leader in suicide prevention with a real-time surveillance system for suicide attempts and strong clinical follow-up protocols.
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇪🇨 [Ecuador](#-ecuador)
@@ -223,7 +223,7 @@
 **Emergency Services:**
 - **Phone:** 911
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇨🇷 [Costa Rica](#-costa-rica)
@@ -247,7 +247,7 @@
 
 **Note:** Costa Rica launched a national suicide prevention campaign "Aquí Estoy" focusing on awareness and education.
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇻🇪 [Venezuela](#-venezuela)
@@ -262,7 +262,7 @@
 **Emergency Services:**
 - **Phone:** 171 (general emergency)
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇧🇴 [Bolivia](#-bolivia)
@@ -280,7 +280,7 @@
 - **Website:** telefonodelaesperanza.org/la-paz
 - **Services:** Crisis counseling
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇵🇾 [Paraguay](#-paraguay)
@@ -292,7 +292,7 @@
 - **Languages:** Spanish
 - **Services:** Emotional support, crisis intervention
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇬🇹 [Guatemala](#-guatemala)
@@ -304,7 +304,7 @@
 - **Languages:** Spanish
 - **Services:** Crisis counseling, suicide prevention
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇭🇳 [Honduras](#-honduras)
@@ -318,7 +318,7 @@
 - **Languages:** Spanish
 - **Services:** Emotional support, crisis intervention
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇵🇦 [Panama](#-panama)
@@ -340,7 +340,7 @@
 - **Languages:** Spanish
 - **Services:** Crisis counseling
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇳🇮 [Nicaragua](#-nicaragua)
@@ -352,7 +352,7 @@
 - **Languages:** Spanish
 - **Services:** Mental health support
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇸🇻 [El Salvador](#-el-salvador)
@@ -365,7 +365,7 @@
 - **Languages:** Spanish
 - **Services:** Crisis counseling, emotional support
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🇩🇴 [Dominican Republic](#-dominican-republic)
@@ -378,7 +378,7 @@
 - **Languages:** Spanish
 - **Services:** Suicide prevention, mental health support
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 ## 🌎 [REGIONAL SPANISH-LANGUAGE RESOURCES](#-regional-spanish-language-resources)
@@ -388,7 +388,7 @@
 - **Languages:** Spanish
 - **Services:** Emotional support via WhatsApp for Spanish-speaking communities worldwide
 
-*[Back to Top](#-index) [Back to Main](README.md)*
+*[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
 *Last Updated: November 25, 2025*
