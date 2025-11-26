@@ -1,7 +1,7 @@
 # Global Suicide Prevention Resources Directory
 ## Internal Moderator/Admin Reference Guide
 
-**Last Updated:** November 23, 2025
+**Last Updated:** November 25, 2025
 
 **Purpose:** This directory provides quick-reference suicide prevention resources organized by country for Facebook group moderators and administrators. Resources are prioritized based on Facebook usage patterns to reflect likely group membership distribution.
 
@@ -11,6 +11,36 @@
 - Multiple options are provided when available (national, regional, and specialized services)
 
 ---
+
+## 🌍 [AFRICA](./Africa.md)
+
+- 🇩🇿 [Algeria](./Africa.md#-algeria)
+- 🇦🇴 [Angola](./Africa.md#-angola)
+- 🇧🇼 [Botswana](./Africa.md#-botswana)
+- 🇨🇲 [Cameroon](./Africa.md#-cameroon)
+- 🇨🇮 [Côte d'Ivoire](./Africa.md#-côte-divoire)
+- 🇪🇹 [Ethiopia](./Africa.md#-ethiopia)
+- 🇬🇦 [Gabon](./Africa.md#-gabon)
+- 🇬🇭 [Ghana](./Africa.md#-ghana)
+- 🇰🇪 [Kenya](./Africa.md#-kenya)
+- 🇲🇬 [Madagascar](./Africa.md#-madagascar)
+- 🇲🇼 [Malawi](./Africa.md#-malawi)
+- 🇲🇺 [Mauritius](./Africa.md#-mauritius)
+- 🇲🇦 [Morocco](./Africa.md#-morocco)
+- 🇲🇿 [Mozambique](./Africa.md#-mozambique)
+- 🇳🇦 [Namibia](./Africa.md#-namibia)
+- 🇳🇬 [Nigeria](./Africa.md#-nigeria)
+- 🇷🇼 [Rwanda](./Africa.md#-rwanda)
+- 🇸🇳 [Senegal](./Africa.md#-senegal)
+- 🇸🇨 [Seychelles](./Africa.md#-seychelles)
+- 🇿🇦 [South Africa](./Africa.md#-south-africa)
+- 🇸🇩 [Sudan](./Africa.md#-sudan)
+- 🇹🇿 [Tanzania](./Africa.md#-tanzania)
+- 🇹🇬 [Togo](./Africa.md#-togo)
+- 🇹🇳 [Tunisia](./Africa.md#-tunisia)
+- 🇺🇬 [Uganda](./Africa.md#-uganda)
+- 🇿🇲 [Zambia](./Africa.md#-zambia)
+- 🇿🇼 [Zimbabwe](./Africa.md#-zimbabwe)
 
 ## 🌏 [ASIA-PACIFIC](./Asia_Pacific.md)
 
@@ -33,6 +63,26 @@
 - 🇻🇳 [Vietnam](./Asia_Pacific.md#-vietnam)
 
 ## 🌎 [LATIN AMERICA](./Latin_America.md)
+
+- 🇦🇷 [Argentina](./Latin_America.md#-argentina)
+- 🇧🇴 [Bolivia](./Latin_America.md#-bolivia)
+- 🇧🇷 [Brazil](./Latin_America.md#-brazil)
+- 🇨🇱 [Chile](./Latin_America.md#-chile)
+- 🇨🇴 [Colombia](./Latin_America.md#-colombia)
+- 🇨🇷 [Costa Rica](./Latin_America.md#-costa-rica)
+- 🇩🇴 [Dominican Republic](./Latin_America.md#-dominican-republic)
+- 🇪🇨 [Ecuador](./Latin_America.md#-ecuador)
+- 🇸🇻 [El Salvador](./Latin_America.md#-el-salvador)
+- 🇬🇹 [Guatemala](./Latin_America.md#-guatemala)
+- 🇭🇳 [Honduras](./Latin_America.md#-honduras)
+- 🇲🇽 [Mexico](./Latin_America.md#-mexico)
+- 🇳🇮 [Nicaragua](./Latin_America.md#-nicaragua)
+- 🇵🇦 [Panama](./Latin_America.md#-panama)
+- 🇵🇾 [Paraguay](./Latin_America.md#-paraguay)
+- 🇵🇪 [Peru](./Latin_America.md#-peru)
+- 🇺🇾 [Uruguay](./Latin_America.md#-uruguay)
+- 🇻🇪 [Venezuela](./Latin_America.md#-venezuela)
+- 🌎 [REGIONAL SPANISH-LANGUAGE RESOURCES](./Latin_America.md#-regional-spanish-language-resources)
 
 ## 🌍 [EUROPE](./Europe.md)
 
@@ -77,8 +127,20 @@
 - 🇨🇦 [Canada](./North_America.md#-canada)
 - 🇺🇸 [United States](./North_America.md#-united-states)
 
+## 🌍 [MIDDLE EAST](./Middle_East.md)
 
-## 🌍 [MIDDLE EAST & AFRICA](./Middle_East_Africa.md)
+- 🇧🇭 [Bahrain](./Middle_East.md#-bahrain)
+- 🇪🇬 [Egypt](./Middle_East.md#-egypt)
+- 🇮🇷 [Iran](./Middle_East.md#-iran)
+- 🇮🇶 [Iraq](./Middle_East.md#-iraq)
+- 🇮🇱 [Israel](./Middle_East.md#-israel)
+- 🇯🇴 [Jordan](./Middle_East.md#-jordan)
+- 🇰🇼 [Kuwait](./Middle_East.md#-kuwait)
+- 🇱🇧 [Lebanon](./Middle_East.md#-lebanon)
+- 🇴🇲 [Oman](./Middle_East.md#-oman)
+- 🇶🇦 [Qatar](./Middle_East.md#-qatar)
+- 🇸🇦 [Saudi Arabia](./Middle_East.md#-saudi-arabia)
+- 🇦🇪 [United Arab Emirates](./Middle_East.md#-united-arab-emirates)
 
 
 ## 📱 INTERNATIONAL RESOURCES

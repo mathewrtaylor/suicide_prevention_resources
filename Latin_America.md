@@ -1,10 +1,33 @@
 # 🌎 LATIN AMERICA SUICIDE PREVENTION RESOURCES
 
-**Last Updated:** November 24, 2025
+**Last Updated:** November 25, 2025
+---
+
+# 📖 [Index](#-index)
+
+- 🇦🇷 [Argentina](#-argentina)
+- 🇧🇴 [Bolivia](#-bolivia)
+- 🇧🇷 [Brazil](#-brazil)
+- 🇨🇱 [Chile](#-chile)
+- 🇨🇴 [Colombia](#-colombia)
+- 🇨🇷 [Costa Rica](#-costa-rica)
+- 🇩🇴 [Dominican Republic](#-dominican-republic)
+- 🇪🇨 [Ecuador](#-ecuador)
+- 🇸🇻 [El Salvador](#-el-salvador)
+- 🇬🇹 [Guatemala](#-guatemala)
+- 🇭🇳 [Honduras](#-honduras)
+- 🇲🇽 [Mexico](#-mexico)
+- 🇳🇮 [Nicaragua](#-nicaragua)
+- 🇵🇦 [Panama](#-panama)
+- 🇵🇾 [Paraguay](#-paraguay)
+- 🇵🇪 [Peru](#-peru)
+- 🇺🇾 [Uruguay](#-uruguay)
+- 🇻🇪 [Venezuela](#-venezuela)
+- 🌎 [REGIONAL SPANISH-LANGUAGE RESOURCES](#-regional-spanish-language-resources)
 
 ---
 
-## 🇲🇽 Mexico
+## 🇲🇽 [Mexico](#-mexico)
 
 **National Crisis Hotlines:**
 
@@ -31,9 +54,10 @@
 - **Phone:** 55-5533-5533
 - **Services:** Legal and psychological support for victims of violence
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇨🇴 Colombia
+## 🇨🇴 [Colombia](#-colombia)
 
 **National Crisis Hotlines:**
 
@@ -63,9 +87,10 @@
 
 **Note:** Colombia has implemented a National Strategy for Suicide Prevention focusing on education, mental health promotion, and early intervention.
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇧🇷 Brazil
+## 🇧🇷 [Brazil](#-brazil)
 
 **National Crisis Hotlines:**
 
@@ -84,9 +109,10 @@
 
 **Note:** CVV operates multiple support centers across Brazil with trained volunteers providing emotional support to those at risk of suicide.
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇨🇱 Chile
+## 🇨🇱 [Chile](#-chile)
 
 **National Crisis Hotlines:**
 
@@ -105,9 +131,10 @@
 **Emergency Services:**
 - **Phone:** 131 (ambulance), 133 (police)
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇦🇷 Argentina
+## 🇦🇷 [Argentina](#-argentina)
 
 **National Crisis Hotlines:**
 
@@ -128,9 +155,10 @@
 **Emergency Services:**
 - **Phone:** 107 (medical emergency), 911 (general emergency)
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇵🇪 Peru
+## 🇵🇪 [Peru](#-peru)
 
 **National Crisis Hotlines:**
 
@@ -149,9 +177,10 @@
 **Emergency Services:**
 - **Phone:** 117 (police), 116 (medical emergency)
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇺🇾 Uruguay
+## 🇺🇾 [Uruguay](#-uruguay)
 
 **National Crisis Hotlines:**
 
@@ -177,9 +206,10 @@
 
 **Note:** Uruguay is a regional leader in suicide prevention with a real-time surveillance system for suicide attempts and strong clinical follow-up protocols.
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇪🇨 Ecuador
+## 🇪🇨 [Ecuador](#-ecuador)
 
 **National Crisis Hotlines:**
 
@@ -193,9 +223,10 @@
 **Emergency Services:**
 - **Phone:** 911
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇨🇷 Costa Rica
+## 🇨🇷 [Costa Rica](#-costa-rica)
 
 **National Crisis Hotlines:**
 
@@ -216,9 +247,10 @@
 
 **Note:** Costa Rica launched a national suicide prevention campaign "Aquí Estoy" focusing on awareness and education.
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇻🇪 Venezuela
+## 🇻🇪 [Venezuela](#-venezuela)
 
 **National Crisis Hotlines:**
 
@@ -230,9 +262,10 @@
 **Emergency Services:**
 - **Phone:** 171 (general emergency)
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇧🇴 Bolivia
+## 🇧🇴 [Bolivia](#-bolivia)
 
 **National Crisis Hotlines:**
 
@@ -247,9 +280,10 @@
 - **Website:** telefonodelaesperanza.org/la-paz
 - **Services:** Crisis counseling
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇵🇾 Paraguay
+## 🇵🇾 [Paraguay](#-paraguay)
 
 **National Crisis Hotlines:**
 
@@ -258,9 +292,10 @@
 - **Languages:** Spanish
 - **Services:** Emotional support, crisis intervention
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇬🇹 Guatemala
+## 🇬🇹 [Guatemala](#-guatemala)
 
 **National Crisis Hotlines:**
 
@@ -269,9 +304,10 @@
 - **Languages:** Spanish
 - **Services:** Crisis counseling, suicide prevention
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇭🇳 Honduras
+## 🇭🇳 [Honduras](#-honduras)
 
 **National Crisis Hotlines:**
 
@@ -282,9 +318,10 @@
 - **Languages:** Spanish
 - **Services:** Emotional support, crisis intervention
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇵🇦 Panama
+## 🇵🇦 [Panama](#-panama)
 
 **National Crisis Hotlines:**
 
@@ -303,9 +340,10 @@
 - **Languages:** Spanish
 - **Services:** Crisis counseling
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇳🇮 Nicaragua
+## 🇳🇮 [Nicaragua](#-nicaragua)
 
 **National Crisis Hotlines:**
 
@@ -314,9 +352,10 @@
 - **Languages:** Spanish
 - **Services:** Mental health support
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇸🇻 El Salvador
+## 🇸🇻 [El Salvador](#-el-salvador)
 
 **National Crisis Hotlines:**
 
@@ -326,9 +365,10 @@
 - **Languages:** Spanish
 - **Services:** Crisis counseling, emotional support
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🇩🇴 Dominican Republic
+## 🇩🇴 [Dominican Republic](#-dominican-republic)
 
 **National Crisis Hotlines:**
 
@@ -338,16 +378,18 @@
 - **Languages:** Spanish
 - **Services:** Suicide prevention, mental health support
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-## 🌎 REGIONAL SPANISH-LANGUAGE RESOURCES
+## 🌎 [REGIONAL SPANISH-LANGUAGE RESOURCES](#-regional-spanish-language-resources)
 
 **Aquí Estoy Chatline (Global Spanish)**
 - **WhatsApp:** Available for Spanish speakers globally
 - **Languages:** Spanish
 - **Services:** Emotional support via WhatsApp for Spanish-speaking communities worldwide
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-*Last Updated: November 24, 2025*
+*Last Updated: November 25, 2025*
 *Data Sources: National mental health departments, WHO, PAHO, verified crisis center websites*

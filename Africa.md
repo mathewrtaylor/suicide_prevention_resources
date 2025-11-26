@@ -1,195 +1,41 @@
-# 🌍 MIDDLE EAST & AFRICA SUICIDE PREVENTION RESOURCES
+# 🌍 AFRICA SUICIDE PREVENTION RESOURCES
 
-**Last Updated:** November 24, 2025
+**Last Updated:** November 25, 2025
+---
+
+# 📖 [Index](#-index)
+
+- 🇩🇿 [Algeria](#-algeria)
+- 🇦🇴 [Angola](#-angola)
+- 🇧🇼 [Botswana](#-botswana)
+- 🇨🇲 [Cameroon](#-cameroon)
+- 🇨🇮 [Côte d'Ivoire](#-côte-divoire)
+- 🇪🇹 [Ethiopia](#-ethiopia)
+- 🇬🇦 [Gabon](#-gabon)
+- 🇬🇭 [Ghana](#-ghana)
+- 🇰🇪 [Kenya](#-kenya)
+- 🇲🇬 [Madagascar](#-madagascar)
+- 🇲🇼 [Malawi](#-malawi)
+- 🇲🇺 [Mauritius](#-mauritius)
+- 🇲🇦 [Morocco](#-morocco)
+- 🇲🇿 [Mozambique](#-mozambique)
+- 🇳🇦 [Namibia](#-namibia)
+- 🇳🇬 [Nigeria](#-nigeria)
+- 🇷🇼 [Rwanda](#-rwanda)
+- 🇸🇳 [Senegal](#-senegal)
+- 🇸🇨 [Seychelles](#-seychelles)
+- 🇿🇦 [South Africa](#-south-africa)
+- 🇸🇩 [Sudan](#-sudan)
+- 🇹🇿 [Tanzania](#-tanzania)
+- 🇹🇬 [Togo](#-togo)
+- 🇹🇳 [Tunisia](#-tunisia)
+- 🇺🇬 [Uganda](#-uganda)
+- 🇿🇲 [Zambia](#-zambia)
+- 🇿🇼 [Zimbabwe](#-zimbabwe)
 
 ---
 
-## MIDDLE EAST
-
-### 🇮🇱 Israel
-
-**National Crisis Hotlines:**
-
-**ERAN - Emotional First Aid**
-- **Phone:** 1201
-- **Chat:** en.eran.org.il
-- **Availability:** 24/7
-- **Languages:** Hebrew, Arabic, English, Russian
-- **Services:** Emotional support, suicide prevention
-
-**Sahar - Emotional Support Chat**
-- **Chat:** sahar.org.il
-- **Availability:** Sun-Thurs, 7 PM - 1 AM
-- **Languages:** Hebrew
-- **Services:** Online emotional support for youth and young adults
-
-**Emergency Services:**
-- **Phone:** 100 (police), 101 (medical emergency)
-
----
-
-### 🇦🇪 United Arab Emirates
-
-**National Crisis Hotlines:**
-
-**Dubai Police Hemaya International Center**
-- **Phone:** 800-4673
-- **Availability:** 24/7
-- **Languages:** Arabic, English
-- **Services:** Crisis support, counseling
-
-**Lighthouse Arabia**
-- **Phone:** +971 4 380 2088
-- **Website:** lighthousearabia.com
-- **Languages:** Arabic, English
-- **Services:** Mental health support, counseling
-
-**Emergency Services:**
-- **Phone:** 999 or 112
-
----
-
-### 🇸🇦 Saudi Arabia
-
-**National Crisis Hotlines:**
-
-**Umm Al-Qura Medical Rehabilitation Center**
-- **Services:** Mental health support available through hospitals
-
-**Emergency Services:**
-- **Phone:** 112
-
-**Note:** Suicide prevention services are primarily provided through hospital-based mental health departments.
-
----
-
-### 🇪🇬 Egypt
-
-**National Crisis Hotlines:**
-
-**Befrienders Egypt**
-- **Phone:** 762-1602, 762-2381
-- **Languages:** Arabic, English
-- **Services:** Emotional support, suicide prevention
-
-**Emergency Services:**
-- **Phone:** 122
-
----
-
-### 🇯🇴 Jordan
-
-**National Crisis Hotlines:**
-
-**Family Guidance Center**
-- **Phone:** 110
-- **Languages:** Arabic
-- **Services:** Family counseling, crisis support
-
-**Emergency Services:**
-- **Phone:** 911
-
----
-
-### 🇱🇧 Lebanon
-
-**National Crisis Hotlines:**
-
-**Embrace Lifeline**
-- **Phone:** 1564
-- **Availability:** 24/7
-- **Languages:** Arabic, English, French
-- **Website:** embracelebanon.org
-- **Services:** Suicide prevention, mental health support
-
-**Emergency Services:**
-- **Phone:** 112
-
----
-
-### 🇶🇦 Qatar
-
-**National Crisis Hotlines:**
-
-**National Mental Health Hotline**
-- **Phone:** 16000
-- **Languages:** Arabic, English
-- **Services:** Mental health support
-
-**Emergency Services:**
-- **Phone:** 999
-
----
-
-### 🇰🇼 Kuwait
-
-**National Crisis Hotlines:**
-
-**Kuwait Psychological Association**
-- **Services:** Mental health support available through hospitals
-
-**Emergency Services:**
-- **Phone:** 112
-
----
-
-### 🇧🇭 Bahrain
-
-**National Crisis Hotlines:**
-
-**Ministry of Health Mental Health Services**
-- **Phone:** Available through hospitals
-- **Languages:** Arabic, English
-
-**Emergency Services:**
-- **Phone:** 999
-
----
-
-### 🇴🇲 Oman
-
-**National Crisis Hotlines:**
-
-**Ministry of Health**
-- **Services:** Mental health support through healthcare centers
-
-**Emergency Services:**
-- **Phone:** 9999
-
----
-
-### 🇮🇷 Iran
-
-**National Crisis Hotlines:**
-
-**Iran Suicide Prevention Center**
-- **Phone:** 1480
-- **Availability:** 24/7
-- **Languages:** Persian/Farsi
-- **Services:** Suicide prevention counseling
-
-**Emergency Services:**
-- **Phone:** 110 (police), 115 (medical)
-
----
-
-### 🇮🇶 Iraq
-
-**National Crisis Hotlines:**
-
-**Restart Center for Rehabilitation**
-- **Phone:** +964 750 188 8000
-- **Languages:** Arabic, Kurdish
-- **Services:** Mental health support
-
-**Emergency Services:**
-- **Phone:** 112
-
----
-
-## SUB-SAHARAN AFRICA
-
-### 🇿🇦 South Africa
+### 🇿🇦 [South Africa](#-south-africa)
 
 **National Crisis Hotlines:**
 
@@ -218,9 +64,10 @@
 **Emergency Services:**
 - **Phone:** 10111 (police), 10177 (ambulance)
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇳🇬 Nigeria
+### 🇳🇬 [Nigeria](#-nigeria)
 
 **National Crisis Hotlines:**
 
@@ -249,9 +96,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇰🇪 Kenya
+### 🇰🇪 [Kenya](#-kenya)
 
 **National Crisis Hotlines:**
 
@@ -269,9 +117,10 @@
 **Emergency Services:**
 - **Phone:** 999, 112
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇺🇬 Uganda
+### 🇺🇬 [Uganda](#-uganda)
 
 **National Crisis Hotlines:**
 
@@ -283,9 +132,10 @@
 **Emergency Services:**
 - **Phone:** 112, 999
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇪🇹 Ethiopia
+### 🇪🇹 [Ethiopia](#-ethiopia)
 
 **National Crisis Hotlines:**
 
@@ -297,9 +147,10 @@
 **Emergency Services:**
 - **Phone:** 911
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇬🇭 Ghana
+### 🇬🇭 [Ghana](#-ghana)
 
 **National Crisis Hotlines:**
 
@@ -311,9 +162,10 @@
 **Emergency Services:**
 - **Phone:** 999, 112
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇹🇿 Tanzania
+### 🇹🇿 [Tanzania](#-tanzania)
 
 **National Crisis Hotlines:**
 
@@ -323,9 +175,10 @@
 **Emergency Services:**
 - **Phone:** 112, 999
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇷🇼 Rwanda
+### 🇷🇼 [Rwanda](#-rwanda)
 
 **National Crisis Hotlines:**
 
@@ -337,9 +190,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇿🇼 Zimbabwe
+### 🇿🇼 [Zimbabwe](#-zimbabwe)
 
 **National Crisis Hotlines:**
 
@@ -351,9 +205,10 @@
 **Emergency Services:**
 - **Phone:** 999
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇧🇼 Botswana
+### 🇧🇼 [Botswana](#-botswana)
 
 **National Crisis Hotlines:**
 
@@ -365,9 +220,10 @@
 **Emergency Services:**
 - **Phone:** 999, 997
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇳🇦 Namibia
+### 🇳🇦 [Namibia](#-namibia)
 
 **National Crisis Hotlines:**
 
@@ -379,9 +235,10 @@
 **Emergency Services:**
 - **Phone:** 10111
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇿🇲 Zambia
+### 🇿🇲 [Zambia](#-zambia)
 
 **National Crisis Hotlines:**
 
@@ -393,9 +250,10 @@
 **Emergency Services:**
 - **Phone:** 999, 112
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇲🇼 Malawi
+### 🇲🇼 [Malawi](#-malawi)
 
 **National Crisis Hotlines:**
 
@@ -407,9 +265,10 @@
 **Emergency Services:**
 - **Phone:** 997, 998
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇲🇿 Mozambique
+### 🇲🇿 [Mozambique](#-mozambique)
 
 **National Crisis Hotlines:**
 
@@ -421,9 +280,10 @@
 **Emergency Services:**
 - **Phone:** 119
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇦🇴 Angola
+### 🇦🇴 [Angola](#-angola)
 
 **National Crisis Hotlines:**
 
@@ -437,9 +297,10 @@
 **Emergency Services:**
 - **Phone:** 112
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇲🇦 Morocco
+### 🇲🇦 [Morocco](#-morocco)
 
 **National Crisis Hotlines:**
 
@@ -451,9 +312,10 @@
 **Emergency Services:**
 - **Phone:** 19 (police), 15 (medical)
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇩🇿 Algeria
+### 🇩🇿 [Algeria](#-algeria)
 
 **National Crisis Hotlines:**
 
@@ -465,9 +327,10 @@
 **Emergency Services:**
 - **Phone:** 14 (ambulance), 17 (police)
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇹🇳 Tunisia
+### 🇹🇳 [Tunisia](#-tunisia)
 
 **National Crisis Hotlines:**
 
@@ -477,9 +340,10 @@
 **Emergency Services:**
 - **Phone:** 197
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇸🇳 Senegal
+### 🇸🇳 [Senegal](#-senegal)
 
 **National Crisis Hotlines:**
 
@@ -488,9 +352,10 @@
 **Emergency Services:**
 - **Phone:** 17 (police), 18 (medical)
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇨🇲 Cameroon
+### 🇨🇲 [Cameroon](#-cameroon)
 
 **National Crisis Hotlines:**
 
@@ -500,9 +365,10 @@
 **Emergency Services:**
 - **Phone:** 117
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇨🇮 Côte d'Ivoire
+### 🇨🇮 [Côte d'Ivoire](#-côte-divoire)
 
 **National Crisis Hotlines:**
 
@@ -511,9 +377,10 @@
 **Emergency Services:**
 - **Phone:** 110, 111
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇸🇩 Sudan
+### 🇸🇩 [Sudan](#-sudan)
 
 **National Crisis Hotlines:**
 
@@ -525,9 +392,10 @@
 **Emergency Services:**
 - **Phone:** 999
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇹🇬 Togo
+### 🇹🇬 [Togo](#-togo)
 
 **National Crisis Hotlines:**
 
@@ -539,9 +407,10 @@
 **Emergency Services:**
 - **Phone:** 117
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇬🇦 Gabon
+### 🇬🇦 [Gabon](#-gabon)
 
 **National Crisis Hotlines:**
 
@@ -550,9 +419,10 @@
 **Emergency Services:**
 - **Phone:** 1730
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇲🇺 Mauritius
+### 🇲🇺 [Mauritius](#-mauritius)
 
 **National Crisis Hotlines:**
 
@@ -565,9 +435,10 @@
 **Emergency Services:**
 - **Phone:** 999, 114
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇸🇨 Seychelles
+### 🇸🇨 [Seychelles](#-seychelles)
 
 **National Crisis Hotlines:**
 
@@ -577,9 +448,10 @@
 **Emergency Services:**
 - **Phone:** 999
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-### 🇲🇬 Madagascar
+### 🇲🇬 [Madagascar](#-madagascar)
 
 **National Crisis Hotlines:**
 
@@ -588,12 +460,13 @@
 **Emergency Services:**
 - **Phone:** 117, 118
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
 ## IMPORTANT NOTES FOR MODERATORS
 
 **Limited Resources:**
-Many countries in the Middle East and Africa have limited formal suicide prevention hotlines. In these cases:
+Many countries in Africa have limited formal suicide prevention hotlines. In these cases:
 - Direct members to emergency services (ambulance/police)
 - Suggest visiting the nearest hospital emergency department
 - Recommend international resources like:
@@ -606,9 +479,10 @@ Many African countries have multiple languages. When possible, note if services 
 **Cultural Sensitivity:**
 Be aware that mental health stigma may be particularly strong in some regions. Encourage members to seek help through trusted community leaders, religious figures, or healthcare providers if formal hotlines are unavailable.
 
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
-*Last Updated: November 24, 2025*
+*Last Updated: November 25, 2025*
 *Data Sources: National mental health departments, WHO, Befrienders Worldwide, IASP, local NGOs, verified crisis center websites*
 
 **Note:** This region has the most limited suicide prevention infrastructure globally. Many countries are actively working to expand mental health services. When formal hotlines are unavailable, emergency services and hospital emergency departments are the best immediate resources.

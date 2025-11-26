@@ -86,7 +86,7 @@
 - **Languages:** English, Spanish
 - **Services:** Crisis counseling for people experiencing emotional distress related to disasters
 
-*[Back to Top](#-index)*
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
 ## 🇨🇦 [Canada](#-canada)
@@ -178,7 +178,7 @@
 **Nunavut**
 - **Kamatsiaqtut Help Line:** 1-800-265-3333
 
-*[Back to Top](#-index)*
+*[Back to Top](#-index) [Back to Main](README.md)*
 ---
 
 *Last Updated: November 24, 2025*
