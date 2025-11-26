@@ -1,11 +1,12 @@
 # 🌎 NORTH AMERICA SUICIDE PREVENTION RESOURCES
 
-**Last Updated:** November 24, 2025
+**Last Updated:** November 26, 2025
 ---
 
 # 📖 [Index](#-index)
 
 - 🇨🇦 [Canada](#-canada)
+- 🇲🇽 [Mexico](#-mexico)
 - 🇺🇸 [United States](#-united-states)
 
 ---
@@ -181,5 +182,35 @@
 *[Back to Top](#-index) | [Back to Main](README.md)*
 ---
 
-*Last Updated: November 24, 2025*
+## 🇲🇽 [Mexico](#-mexico)
+
+**National Crisis Hotlines:**
+
+**Línea de la Vida (Line of Life)**
+- **Phone:** 800-911-2000
+- **Availability:** 24/7
+- **Languages:** Spanish
+- **Services:** Suicide prevention, crisis intervention, substance abuse support, mental health counseling
+
+**SAPTEL (Sistema Nacional de Apoyo)**
+- **Phone:** (55) 5259-8121
+- **Availability:** 24/7
+- **Languages:** Spanish
+- **Organization:** Mexican Red Cross subsidiary
+- **Services:** Crisis counseling, suicide prevention, mental health support
+
+**Emergency Services:**
+- **Phone:** 911
+- **Services:** Request nearest hospital emergency department for mental health crisis
+
+**Specialized Services:**
+
+**Safety Hotline**
+- **Phone:** 55-5533-5533
+- **Services:** Legal and psychological support for victims of violence
+
+*[Back to Top](#-index) | [Back to Main](README.md)*
+---
+
+*Last Updated: November 26, 2025*
 *Data Sources: 988.ca, 988lifeline.org, CAMH, SAMHSA, verified crisis center websites*

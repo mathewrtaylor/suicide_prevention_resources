@@ -75,7 +75,6 @@
 - 🇸🇻 [El Salvador](./Latin_America.md#-el-salvador)
 - 🇬🇹 [Guatemala](./Latin_America.md#-guatemala)
 - 🇭🇳 [Honduras](./Latin_America.md#-honduras)
-- 🇲🇽 [Mexico](./Latin_America.md#-mexico)
 - 🇳🇮 [Nicaragua](./Latin_America.md#-nicaragua)
 - 🇵🇦 [Panama](./Latin_America.md#-panama)
 - 🇵🇾 [Paraguay](./Latin_America.md#-paraguay)
@@ -125,6 +124,7 @@
 ## 🌎 [NORTH AMERICA](./North_America.md)
 
 - 🇨🇦 [Canada](./North_America.md#-canada)
+- 🇲🇽 [Mexico](./North_America.md#-mexico)
 - 🇺🇸 [United States](./North_America.md#-united-states)
 
 ## 🌍 [MIDDLE EAST](./Middle_East.md)
