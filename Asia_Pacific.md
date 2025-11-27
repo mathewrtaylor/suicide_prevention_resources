@@ -473,12 +473,23 @@
 - **Languages:** English
 - **Services:** Free call or text for mental health support
 
+**Depression Helpine**
+- **Phone:** 0800 111 757
+- **Text:** 4202
+- **Availability:** 24/7
+
 **Lifeline Aotearoa**
 - **Phone:** 0800 543 354
+- **Text:** 4357
 - **Availability:** 24/7
 - **Languages:** English
 - **Website:** lifeline.org.nz
-- **Services:** Crisis support
+
+**Mental Health Foundation**
+- **Website:** www.mentalhealth.org.nz
+
+**Rural Support**
+- **Phone:** 0800 787 254
 
 **Suicide Crisis Helpline**
 - **Phone:** 0508 828 865 (0508 TAUTOKO)
@@ -488,15 +499,54 @@
 
 **Specialized Services:**
 
+**Sexuality or gender identity**
+**Rainbow Youth**
+- **Phone:** (09) 376 4155
+**OUTLine NZ**
+- **Phone:** 0800 688 5463
+
+**The Lowdown** 
+- **Text:** 5626
+- **Services:** A space created with rangatahi for rangatahi.
+
 **Youthline**
 - **Phone:** 0800 376 633
 - **Text:** 234
 - **Availability:** 24/7
 - **Services:** Support for young people
 
+**Whatsup**
+- **Phone:** 0800 942 8787
+- **Services:** Support for young people
+
+**Parent Help**
+- **Phone:** 0800 568 856 
+- **Services:** For Parents
+
 **Samaritans**
 - **Phone:** 0800 726 666
 - **Availability:** 24/7
+
+**Sexual Harm Helpline**
+- **Phone:** 0800 044 334
+- **Availability:** 24/7
+- **Services:** Sexual Abuse and Domestic Violence
+
+**Are You Okay**
+- **Phone:** 0800 456 450
+- **Services:** Sexual Abuse and Domestic Violence
+
+**Victim Support**
+- **Phone:** 0800 842 846
+- **Availability:** 24/7
+
+**Women’s Refuge Crisis Line**
+- **Phone:** 0800 733 843
+- **Availability:** 24/7
+- **Services:** Sexual Abuse and Domestic Violence
+
+**The Yellow Brick Road**
+- **Website:** www.yellowbrickroad.org.nz
 
 *[Back to Top](#-index) | [Back to Main](README.md)*
 ---
